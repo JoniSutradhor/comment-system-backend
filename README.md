@@ -17,7 +17,7 @@ Follow these steps to run the project locally:
 
 ```bash
 git clone <https://github.com/JoniSutradhor/comment-system-backend>
-cd <comment-system-frontend>
+cd <comment-system-backend>
 
 npm install
 # or
