@@ -24,9 +24,7 @@ npm install
 yarn
 
 
-npm run dev
-# or
-yarn dev
+nodemon server
 
 Server running on http://localhost:5000
 
